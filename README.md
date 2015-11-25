@@ -1,2 +1,6 @@
 # hello-world
-First Repository On GitHub
+#################
+
+Hi everyone!
+
+This is my first interation with GitHub. I Enjoy c coding and I like tea.
